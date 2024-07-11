@@ -22,7 +22,7 @@
 
 import numpy as np
 from PIL import Image
-from union_find import UnionFind
+from ccl.union_find import UnionFind
 
 
 CONNECTIVITY_4 = 4
